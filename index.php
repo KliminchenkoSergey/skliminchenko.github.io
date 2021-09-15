@@ -1,3 +1,4 @@
+<?php
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -38,6 +39,7 @@
     </div>
   </div>
 </div>
+  ?>
  <?php
    echo '<script type="text/javascript" src="https://w83192.yclients.com/widgetJS" charset="UTF-8"></script>';
 ?>
